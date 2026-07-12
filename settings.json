@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NIR_1100",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Nir_go-WtDo.aternos.me",
-    "port": 12001,
+    "ip": "Parkour-39Dv.aternos.me",
+    "port": 58804,
     "version": "26.2",
     "try-creative": false
   },
